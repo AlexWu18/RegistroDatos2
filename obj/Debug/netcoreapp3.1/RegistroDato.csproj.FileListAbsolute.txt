@@ -1,0 +1,13 @@
+C:\Users\merio\Desktop\RegistroDato\bin\Debug\netcoreapp3.1\RegistroDato.exe
+C:\Users\merio\Desktop\RegistroDato\bin\Debug\netcoreapp3.1\RegistroDato.deps.json
+C:\Users\merio\Desktop\RegistroDato\bin\Debug\netcoreapp3.1\RegistroDato.runtimeconfig.json
+C:\Users\merio\Desktop\RegistroDato\bin\Debug\netcoreapp3.1\RegistroDato.runtimeconfig.dev.json
+C:\Users\merio\Desktop\RegistroDato\bin\Debug\netcoreapp3.1\RegistroDato.dll
+C:\Users\merio\Desktop\RegistroDato\bin\Debug\netcoreapp3.1\RegistroDato.pdb
+C:\Users\merio\Desktop\RegistroDato\obj\Debug\netcoreapp3.1\RegistroDato.csprojAssemblyReference.cache
+C:\Users\merio\Desktop\RegistroDato\obj\Debug\netcoreapp3.1\RegistroDato.AssemblyInfoInputs.cache
+C:\Users\merio\Desktop\RegistroDato\obj\Debug\netcoreapp3.1\RegistroDato.AssemblyInfo.cs
+C:\Users\merio\Desktop\RegistroDato\obj\Debug\netcoreapp3.1\RegistroDato.csproj.CoreCompileInputs.cache
+C:\Users\merio\Desktop\RegistroDato\obj\Debug\netcoreapp3.1\RegistroDato.dll
+C:\Users\merio\Desktop\RegistroDato\obj\Debug\netcoreapp3.1\RegistroDato.pdb
+C:\Users\merio\Desktop\RegistroDato\obj\Debug\netcoreapp3.1\RegistroDato.genruntimeconfig.cache
