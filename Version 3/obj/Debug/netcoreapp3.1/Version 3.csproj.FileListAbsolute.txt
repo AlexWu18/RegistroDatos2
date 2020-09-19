@@ -1,0 +1,13 @@
+C:\Users\merio\Desktop\Versiones del archivo\Version 3\bin\Debug\netcoreapp3.1\Version 3.exe
+C:\Users\merio\Desktop\Versiones del archivo\Version 3\bin\Debug\netcoreapp3.1\Version 3.deps.json
+C:\Users\merio\Desktop\Versiones del archivo\Version 3\bin\Debug\netcoreapp3.1\Version 3.runtimeconfig.json
+C:\Users\merio\Desktop\Versiones del archivo\Version 3\bin\Debug\netcoreapp3.1\Version 3.runtimeconfig.dev.json
+C:\Users\merio\Desktop\Versiones del archivo\Version 3\bin\Debug\netcoreapp3.1\Version 3.dll
+C:\Users\merio\Desktop\Versiones del archivo\Version 3\bin\Debug\netcoreapp3.1\Version 3.pdb
+C:\Users\merio\Desktop\Versiones del archivo\Version 3\obj\Debug\netcoreapp3.1\Version 3.csprojAssemblyReference.cache
+C:\Users\merio\Desktop\Versiones del archivo\Version 3\obj\Debug\netcoreapp3.1\Version 3.AssemblyInfoInputs.cache
+C:\Users\merio\Desktop\Versiones del archivo\Version 3\obj\Debug\netcoreapp3.1\Version 3.AssemblyInfo.cs
+C:\Users\merio\Desktop\Versiones del archivo\Version 3\obj\Debug\netcoreapp3.1\Version 3.csproj.CoreCompileInputs.cache
+C:\Users\merio\Desktop\Versiones del archivo\Version 3\obj\Debug\netcoreapp3.1\Version 3.dll
+C:\Users\merio\Desktop\Versiones del archivo\Version 3\obj\Debug\netcoreapp3.1\Version 3.pdb
+C:\Users\merio\Desktop\Versiones del archivo\Version 3\obj\Debug\netcoreapp3.1\Version 3.genruntimeconfig.cache

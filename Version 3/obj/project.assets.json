@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\merio\\Desktop\\Versiones del archivo\\Version2.csproj",
-      "projectName": "Version2",
-      "projectPath": "C:\\Users\\merio\\Desktop\\Versiones del archivo\\Version2.csproj",
+      "projectUniqueName": "C:\\Users\\merio\\Desktop\\Versiones del archivo\\Version 3\\Version 3.csproj",
+      "projectName": "Version 3",
+      "projectPath": "C:\\Users\\merio\\Desktop\\Versiones del archivo\\Version 3\\Version 3.csproj",
       "packagesPath": "C:\\Users\\merio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\merio\\Desktop\\Versiones del archivo\\obj\\",
+      "outputPath": "C:\\Users\\merio\\Desktop\\Versiones del archivo\\Version 3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\merio\\AppData\\Roaming\\NuGet\\NuGet.Config",

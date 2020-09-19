@@ -1,0 +1,4 @@
+C:\Users\merio\Desktop\Versiones del archivo\obj\Debug\netcoreapp3.1\Version2.csprojAssemblyReference.cache
+C:\Users\merio\Desktop\Versiones del archivo\obj\Debug\netcoreapp3.1\Version2.AssemblyInfoInputs.cache
+C:\Users\merio\Desktop\Versiones del archivo\obj\Debug\netcoreapp3.1\Version2.AssemblyInfo.cs
+C:\Users\merio\Desktop\Versiones del archivo\obj\Debug\netcoreapp3.1\Version2.csproj.CoreCompileInputs.cache
