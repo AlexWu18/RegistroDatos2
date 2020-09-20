@@ -1,117 +1,80 @@
 ﻿using System;
 using System.IO;
-namespace RegistroDato
+namespace Char_by_Char
 {
-
     class Program
     {
-        private static string Informacion;
+       private static string Char1;
         static void Main(string[] args)
         {
-            Informacion = args[0];
+            Char1 = args[0];
 
-            if (!File.Exists(Informacion))
+                 if (!File.Exists(Char1))
             {
-                using (StreamWriter file = new StreamWriter(Informacion))
+                using (StreamWriter file = new StreamWriter(Char1))
                 {
-                    file.WriteLine("Cedula" + "," + "Nombre"+ "," + "Apellido" + "," + "Edad");
+                    file.WriteLine("Nombre" + "," + "Apellido" + "," + "Edad" + "," + "Ahorros" + "," + "Password");
                 }
             }
 
-        string Num;
-        Console.WriteLine("----Registro-------");
-        Console.WriteLine("[1] Agregar usuario");
-        Console.WriteLine("[2] Ver Lista");
-        Console.WriteLine("[3] Buscar Cedula");
-        Console.WriteLine("[4] Salida");
-        
-        Console.WriteLine("SELECCIONE UN NUMERO DEL 1-4");
-        Num = Console.ReadLine();
-        Console.Clear();
-        
-        switch(Num)
-        {
-            case "1":
-
-            programa:
-            string Nom, Ape, Cedu, A1, A2;
             int Edad;
+            string Nombre, Apellido, PassWord, RepassWord;
+            decimal Ahorros;
 
-            StreamWriter archivo = File.AppendText(Informacion);
-            Console.Write("Cedula:");
-            Cedu = Console.ReadLine();
-            Console.Write("Nombre:");
-            Nom = Console.ReadLine();
-            Console.Write("Apellido:");
-            Ape = Console.ReadLine();
-            Console.Write("Edad:");
-            Edad = Convert.ToInt32( Console.ReadLine());
+            StreamWriter Archivo = File.AppendText(Char1);
+            Console.Write("Nombre : ");
+            Nombre = Console.ReadLine(); 
+            Console.Write("Apellido : ");
+            Apellido = Console.ReadLine();
+            Console.Write("Edad : ");
+            Edad = Convert.ToInt32(Console.ReadLine()); 
+            Console.Write("Ahorros : ");
+            Ahorros =Convert.ToDecimal(Console.ReadLine());
+            Console.Write("Password : ");
+            PassWord = Console.ReadLine(); 
+            Aqui:
+            Console.Write("Confirmar Password : ");
+            RepassWord = Console.ReadLine(); 
 
-            Console.WriteLine("Que quieres hacer?");
-            Console.WriteLine("Salvar[S]  ||   Rehacer[R]   || Cerrrar[C] ");
-            A1 = Console.ReadLine();
-            A2 = A1.ToLower();
-
-            if(A2 == "s")
+            if (RepassWord == PassWord)
             {
-                archivo.WriteLine( Cedu +"," + Nom + "," + Ape + "," + Edad);
-                archivo.Close();
+                String Codigo = PassWord1();
+                Archivo.WriteLine(Nombre + "," + Apellido + "," + Edad + "," + Ahorros + "," + PassWord);
+                Archivo.Close();
             }
-            if(A2 == "r")
+            if (RepassWord != PassWord)
             {
-                archivo.Close();
-                goto programa;
+                String Codigo = PassWord1();
+                Archivo.Close();
+                goto Aqui;
+                 
             }
-            if(A2 == "c")
+
+        }     
+        public static string PassWord1()
+    {
+        ConsoleKeyInfo VAB; 
+        string XDS = string.Empty;
+
+        do
+        {
+            VAB = Console.ReadKey(true);
+            if (VAB. Key != ConsoleKey.Backspace && VAB.Key != ConsoleKey.Enter)
             {
-                archivo.Close();
-                goto Final;
+                XDS += VAB.KeyChar;
+                Console.WriteLine("*");
             }
-            
-            Final:
-            Console.WriteLine("Finalizado el programa.........");
-
-            break;
-
-            case "2" :
+            else if (VAB.Key == ConsoleKey.Backspace && XDS.Length > 0)
             {
-                TextReader Leer;
-                Leer = new StreamReader(Informacion);
-                Console.WriteLine(Leer.ReadToEnd());
-                Console.ReadKey();
-                Leer.Close();
-
-            break;
+                XDS = XDS.Substring(0, (XDS.Length - 1));
+                Console.WriteLine("\b \b");
             }
-        
-            case "3":
+              
+        }  while ( VAB.Key != ConsoleKey.Enter);
 
-                string Cosa;
-                string Azul = "No Existe";
-
-                Console.Write("Escriba la Cedula:");
-                Cosa = Console.ReadLine();
-                foreach(string line in File.ReadLines(Informacion))
-                {
-                    if( line.Contains(Cosa))
-                    {
-                        var arr = line.Split(",");
-                        if(arr[0] == Cosa)
-                        {
-                            Azul = line;
-                        }
-                    }
-                }
-                Console.WriteLine(Azul);
-                Console.ReadLine();
-             break;
-
-            case "4":
-                Console.WriteLine("EL PROGRAMA HA FINALIZADO.....");
-            break;
+        return XDS;
 
 
-             }
         }
     }
 }
