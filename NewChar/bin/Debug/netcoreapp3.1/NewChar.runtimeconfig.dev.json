@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\merio\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\merio\\.nuget\\packages"
+    ]
+  }
+}

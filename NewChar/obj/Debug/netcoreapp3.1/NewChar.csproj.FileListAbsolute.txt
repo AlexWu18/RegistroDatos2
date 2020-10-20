@@ -1,0 +1,13 @@
+C:\Users\merio\Desktop\NewChar\obj\Debug\netcoreapp3.1\NewChar.csprojAssemblyReference.cache
+C:\Users\merio\Desktop\NewChar\obj\Debug\netcoreapp3.1\NewChar.AssemblyInfoInputs.cache
+C:\Users\merio\Desktop\NewChar\obj\Debug\netcoreapp3.1\NewChar.AssemblyInfo.cs
+C:\Users\merio\Desktop\NewChar\obj\Debug\netcoreapp3.1\NewChar.csproj.CoreCompileInputs.cache
+C:\Users\merio\Desktop\NewChar\bin\Debug\netcoreapp3.1\NewChar.exe
+C:\Users\merio\Desktop\NewChar\bin\Debug\netcoreapp3.1\NewChar.deps.json
+C:\Users\merio\Desktop\NewChar\bin\Debug\netcoreapp3.1\NewChar.runtimeconfig.json
+C:\Users\merio\Desktop\NewChar\bin\Debug\netcoreapp3.1\NewChar.runtimeconfig.dev.json
+C:\Users\merio\Desktop\NewChar\bin\Debug\netcoreapp3.1\NewChar.dll
+C:\Users\merio\Desktop\NewChar\bin\Debug\netcoreapp3.1\NewChar.pdb
+C:\Users\merio\Desktop\NewChar\obj\Debug\netcoreapp3.1\NewChar.dll
+C:\Users\merio\Desktop\NewChar\obj\Debug\netcoreapp3.1\NewChar.pdb
+C:\Users\merio\Desktop\NewChar\obj\Debug\netcoreapp3.1\NewChar.genruntimeconfig.cache
