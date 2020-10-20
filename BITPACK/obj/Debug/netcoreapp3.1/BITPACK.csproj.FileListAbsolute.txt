@@ -1,0 +1,13 @@
+C:\Users\merio\Desktop\BITPACK\bin\Debug\netcoreapp3.1\BITPACK.exe
+C:\Users\merio\Desktop\BITPACK\bin\Debug\netcoreapp3.1\BITPACK.deps.json
+C:\Users\merio\Desktop\BITPACK\bin\Debug\netcoreapp3.1\BITPACK.runtimeconfig.json
+C:\Users\merio\Desktop\BITPACK\bin\Debug\netcoreapp3.1\BITPACK.runtimeconfig.dev.json
+C:\Users\merio\Desktop\BITPACK\bin\Debug\netcoreapp3.1\BITPACK.dll
+C:\Users\merio\Desktop\BITPACK\bin\Debug\netcoreapp3.1\BITPACK.pdb
+C:\Users\merio\Desktop\BITPACK\obj\Debug\netcoreapp3.1\BITPACK.csprojAssemblyReference.cache
+C:\Users\merio\Desktop\BITPACK\obj\Debug\netcoreapp3.1\BITPACK.AssemblyInfoInputs.cache
+C:\Users\merio\Desktop\BITPACK\obj\Debug\netcoreapp3.1\BITPACK.AssemblyInfo.cs
+C:\Users\merio\Desktop\BITPACK\obj\Debug\netcoreapp3.1\BITPACK.csproj.CoreCompileInputs.cache
+C:\Users\merio\Desktop\BITPACK\obj\Debug\netcoreapp3.1\BITPACK.dll
+C:\Users\merio\Desktop\BITPACK\obj\Debug\netcoreapp3.1\BITPACK.pdb
+C:\Users\merio\Desktop\BITPACK\obj\Debug\netcoreapp3.1\BITPACK.genruntimeconfig.cache
